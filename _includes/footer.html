@@ -1,0 +1,12 @@
+<footer>
+    <div class="social-networks">
+    {% for entry in site.data.social %}
+    {% assign network = entry[1] %}
+        <a href="{{ network.url }}" target=_blank><i class="{{ network.icon }}"></i></a>
+    {% endfor %}
+    </div>
+
+    <div class="copyright">
+        © {{ site.site_inception.year }} - {{ site.owner }}
+    </div>
+</footer>

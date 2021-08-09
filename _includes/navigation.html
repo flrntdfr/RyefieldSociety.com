@@ -1,0 +1,6 @@
+<nav> /
+    {% for entry in site.data.navigation %}
+    {% assign item = entry[1] %}
+    <a href="{% link {{ item.href }}%} " target="{{ item.target }}">{{ item.label }}</a> /
+    {% endfor %}
+</nav>

@@ -1,0 +1,18 @@
+---
+layout: default
+# Below the default fields for a post to be populated
+title:
+date:
+
+id:
+category:
+tags:
+---
+
+<h2>{{ page.title }}</h2>
+<p class="date">Posted on {{ page.date | date: "%b %d, %Y" }}</p>
+
+{{ content }}
+
+<br><br>
+<a href="/news">< back to news</a>

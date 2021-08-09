@@ -1,0 +1,35 @@
+# List the social networks to display on the front page
+#  - Username for tooltip
+#  - url for anchor
+#  - icon for display on the page (https://fontawesome.com)
+# Order of the list matters when rendering the page
+
+bandcamp:
+  username: ryefieldsociety
+  url: https://ryefieldsociety.bandcamp.com
+  icon: fab fa-bandcamp
+twitter:
+  username: ryefield_scty
+  url: https://twitter.com/ryefield_scty
+  icon: fab fa-twitter
+soundcloud:
+  username: ryefield-society
+  url: https://soundcloud.com/ryefield-society
+  icon: fab fa-soundcloud
+youtube: 
+  username: ryefield-society
+  url: https://www.youtube.com/playlist?list=PLo9FLv871g06zyQyeSYqbX-kSnJ5TXFnh
+  icon: fab fa-youtube
+discogs:
+  username: 7862566-Ryefield-Society
+  url: https://www.discogs.com/artist/7862566-Ryefield-Society
+  icon: fas fa-record-vinyl
+instagram:
+  username:
+  url: https://instagram.com/ryefieldsociety
+  icon: fab fa-instagram
+rss:
+  username:
+  # String interpolation does not work in data files. Don't forget to update below
+  url: https://RyefieldSociety/feed.xml
+  icon: fas fa-rss-square

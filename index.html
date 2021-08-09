@@ -1,0 +1,21 @@
+---
+# Ryefield Society (c)
+# 2021
+layout: default
+title: Home
+---
+
+<div class="carrousel">
+{% for release in site.data.discography %}
+{% assign item = release[1]  %}
+{% if item.is_featured == true %}
+    <div class="release">
+        <a href="{% link {{ item.page }} %}">
+        <img class="cover" src="{{ item.cover_url }}" alt="{{ item.title }} cover art"/>
+        <br>
+        <p id="legend">{{ item.title }}&nbsp;-&nbsp;{{ item.release_date.year }}</p>
+        </a>
+    </div>
+{% endif %}
+{% endfor %}
+</div>
