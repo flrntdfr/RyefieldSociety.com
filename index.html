@@ -13,7 +13,7 @@ title: Home
         <a href="{% link {{ item.page }} %}">
         <img class="cover" src="{{ item.cover_url }}" alt="{{ item.title }} cover art"/>
         <br>
-        <p id="legend">{{ item.title }}&nbsp;-&nbsp;{{ item.release_date.year }}</p>
+        <p id="legend">{{ item.title }}&nbsp;-&nbsp;{{ item.release_date | date: "%Y" }}</p>
         </a>
     </div>
 {% endif %}

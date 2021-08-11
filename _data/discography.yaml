@@ -1,70 +1,163 @@
-# Ryefield Society's Discography
+# Ryefield Society's comprehensive Discography
 
-## ORIGINAL PRODUCTIONS
+## ------------------------ ##
+## ALBUMS, EPs, AND SINGLES ##
+## ------------------------ ##
 
-tapoa:
+TAPOA:
   title: The Alternative Path Of Abstraction
   artist: Ryefield Society
-  release_date: 
-    year: 2020
-    month: 05
-    day: 05
+  release_date: 2020-05-15
   release_id: SCO4
   type: EP
   excerpt: Composed over the last two years, The Alternative Path of Abstraction is a five-track EP by French musician Ryefield Society. Made of electronic sounds, samples from old records and guitar chords, it focuses on the feelings of anxiety and explores abstraction - in its multiple definitions - as a way to escape them.
   page: pages/releases/tapoa.md
+  tags: [electronic,experimental,rock,abstract,ambient,chillwave,indie,rock,one,man,band,post-rock,slowcore,France]
   cover_url: https://f4.bcbits.com/img/a2244971505_10.jpg
   discogs_url: https://www.discogs.com/Ryefield-Society-The-Alternative-Path-Of-Abstraction/master/2160259
   download_url: https://spleencorerecords.bandcamp.com/album/the-alternative-path-of-abstraction
-  is_featured: true # Appears on landing page
+  clip_url: https://video.twimg.com/ext_tw_video/1258067531127906304/pu/vid/1280x720/Mu-rLjlVrB9sTkwM.mp4?tag=10
+  is_hidden: false
+  is_featured: true
+MB:
+  title: Memory Blossom
+  type: Single
+  artist: Ryefield Society
+  release_date: 2017-09-11
+  excerpt: 
+  tags: [electronica,dreampop,dreamwave,electronicmusic,ambient,postrock,chill,electronic]
+  cover_url: https://i1.sndcdn.com/artworks-000242198108-v5kpam-t500x500.jpg
+  download_url: https://soundcloud.com/ryefield-society/memory-blossoms
+  clip_url: 
+  is_hidden: false
+  is_featured: false
+BASEL:
+  title: Basel
+  type: Single
+  artist: Ryefield Society
+  release_date: 2017-03-28
+  excerpt: Ryefield Society - Basel
+  tags: [ambient]
+  cover_url: https://i1.sndcdn.com/artworks-000152619214-22n0fw-t500x500.jpg
+  download_url: https://soundcloud.com/ryefield-society/sets/basel
+  clip_url: https://www.youtube.com/playlist?list=PLo9FLv871g06zyQyeSYqbX-kSnJ5TXFnh
+  is_hidden: false
+  is_featured: false
 
-## CONTRIBUTIONS ON COMPILATIONS ETC.
+## -------------------------- ##
+## RYEFIELD SOCIETY ELSEWHERE ##
+## -------------------------- ##
 
-ho:
+## SEULS NOS SOUPIRS
+
+VDLAM:
+  title: Vertiges de l'ancien monde
+  type: EP
+  artist: Seuls Nos Soupirs
+  release_date: 2017-08-02
+  excerpt: 
+  page: _post/2017-08-01-vertiges.md
+  tags: [black,metal,experimental,metal,post,black,metal,dsbm,emo,post-hardcore,post-rock,screamo,France]
+  cover_url: https://f4.bcbits.com/img/a1636318972_10.jpg
+  download_url: https://seulsnossoupirs.bandcamp.com/album/vertiges-de-lancien-monde
+  clip_url: 
+  is_hidden: false
+  is_featured: false
+AFFRES:
+  title: Affres
+  type: EP
+  artist: Seuls Nos Soupirs
+  release_date: 2018-04-20
+  excerpt: \"Affres" is the second EP of Seuls Nos Soupirs. Following "Vertiges de l'Ancien Monde" S.N.S choose to follow their path between Black Metal and Post musics trying to express something more personnal.
+  page: _post/2018-04-20-affres.md
+  tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,ambient,dark,ambient,post,post,black,metal,post,rock,symphonic,black,metal,France]
+  cover_url: https://f4.bcbits.com/img/a3160562488_10.jpg
+  download_url: https://seulsnossoupirs.bandcamp.com/album/affres
+  clip_url: 
+  is_hidden: false
+  is_featured: false
+ECUEILS:
+  title: Écueils
+  type: EP
+  artist: Seuls Nos Soupirs
+  release_date: 2019-04-24
+  excerpt: \"Écueils" is the second EP of a trilogy Seuls Nos Soupirs started in 2018 with "Affres".
+  page: _post/2019-05-24-ecueils.md
+  tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,post,black,metal,ambient,depressive,black,metal,post-rock,symphonic,black,metal,France]
+  cover_url: https://f4.bcbits.com/img/a1488425474_10.jpg
+  download_url: https://seulsnossoupirs.bandcamp.com/album/cueils
+  clip_url: 
+  is_hidden: false
+  is_featured: false
+
+## ----------------------------- ##
+## CONTRIBUTIONS ON COMPILATIONS ##
+## ----------------------------- ##
+
+MFAS-HO:
   title: Music for Another Sky (Home Outside)
   type: contribution
   artist: Various Artists
-  release_date: 
-    year: 2021
-    month: 01
-    day: 25
-  excerpt: \"Home Outside\" is part of the compilation Music for Another Sky released by Mailbox Records in January 2021.
+  release_date: 2021-01-25
+  excerpt:  in January 2021.
   page: pages/releases/ho.md
+  tags: [ambient,devotional,drone,electronic,experimental,widescreen,Bristol]
   cover_url: https://f4.bcbits.com/img/a3249034876_10.jpg
   download_url: https://mailbox-label.bandcamp.com/album/music-for-another-sky
   is_featured: true
-wil:
+WIL-OX:
   title: Working In Loneliness (Oxytocin)
   type: contribution
   artist: Various Artists
-  release_date: 
-    year: 2020
-    month: 03
-    day: 26
+  release_date: 2020-03-16
   page: pages/releases/wil.md
-  excerpt: Initially released as part of the compilation \"Working In Loneliness\" published by Spleencore Records in March 2020. 
+  tags: [rock,ambient,chillwave,indie,rock,math,rock,one,man,band,post-rock,shoegaze,slowcore,France]
+  excerpt: >-
+    Initially released as part of the compilation \"Working In Loneliness\" published by Spleencore Records in March 2020. 
+    Working in Loneliness tries to be an overview of French one wo.man bands. Presenting songs by artists with various approach, from DIY Nerds to Studio Experts, these 7 songs don't pretend to be the resume of the scene but a quick snapshot its energy. 
+    All the benefits will be donated to Le refuge (www.le-refuge.org) which takes care of young rejected LGBTQI+
   cover_url: https://f4.bcbits.com/img/a1150332618_10.jpg
   download_url: https://spleencorerecords.bandcamp.com/album/working-in-loneliness
   is_featured: true
 
-## SINGLE TRACKS, REMIXES, EDITS ETC.
-
-ds:
+## ------------------- ##
+## REMIXES, EDITS ETC. ##
+## ------------------- ##
+AdC-CJQD:
+  title: Ces jours qui disparaissent (Ryefield Society Remix)
+  type: remix
+  artist: Ryefield Society
+  release_date: 2021-05-07
+  excerpt: 
+  tags: [remix,postrock]
+  page: _posts/2021-05-07-centaure.md
+  cover_url: https://f4.bcbits.com/img/a1801747497_10.jpg
+  download_url: https://stellarfrequencies.bandcamp.com/track/ces-jours-qui-disparaissent-ryefield-society-remix
+  is_hidden: false
+  is_featured: false
+DS-W:
   title: Dua Saleh - windhymn (Ryefield Society Edit)
   type: edit
   artist: Ryefield Society
-  release_date: 2020-07-27
+  release_date: 2020-07-26
   excerpt: Ryefield Society Edit of Dua Saleh - windhymn
+  tags: [edit]
+  page: _posts/2020-07-26-windhymn.md
   cover_url: https://i1.sndcdn.com/artworks-HsBVXqJ2zMPAcBYS-3QWL5Q-t500x500.jpg
   download_url: https://soundcloud.com/ryefield-society/windhymn-edit
+  is_hidden: false
   is_featured: false
-basel:
-  title: Basel
-  type: original
+WD-T:
+  title: Winter Dust - There (Ryefield Society Remix)
+  type: remix
   artist: Ryefield Society
-  release_date: 2017-03-28
-  excerpt: Ryefield Society - Basel
-  cover_url: https://i1.sndcdn.com/artworks-000152619214-22n0fw-t500x500.jpg
-  download_url: https://soundcloud.com/ryefield-society/sets/basel
-  clip_url: https://www.youtube.com/playlist?list=PLo9FLv871g06zyQyeSYqbX-kSnJ5TXFnh
+  release_date: 2015-11-12
+  excerpt: >-
+    Many thanks to @winterdustmusic. It was a real pleasure remixing such a wonderful track.  If you don't know their music, you should really get their last EP : winter-dust.bandcamp.com  Original track : Winterdustmusic – 01-there
+  cover_url: https://i1.sndcdn.com/artworks-000135911523-bwxprp-t500x500.jpg
+  download_url: https://soundcloud.com/ryefield-society/winter-dust-there-ryefield-society-remix
+  page: _posts/2015-11-12-winter-dust-there.md
+  is_hidden: false
   is_featured: false
+
+# TODO: Ajouter les mixs, genre le bruit des perles ?
