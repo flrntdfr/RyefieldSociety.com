@@ -8,6 +8,7 @@ TAPOA:
   title: The Alternative Path Of Abstraction
   artist: Ryefield Society
   release_date: 2020-05-15
+  label: Spleen Core records
   release_id: SCO4
   type: EP
   excerpt: Composed over the last two years, The Alternative Path of Abstraction is a five-track EP by French musician Ryefield Society. Made of electronic sounds, samples from old records and guitar chords, it focuses on the feelings of anxiety and explores abstraction - in its multiple definitions - as a way to escape them.
@@ -21,10 +22,11 @@ TAPOA:
   is_featured: true
 MB:
   title: Memory Blossom
-  type: Single
   artist: Ryefield Society
   release_date: 2017-09-11
+  type: Single
   excerpt: 
+  page: _posts/2017-09-11-memory-blossom.md
   tags: [electronica,dreampop,dreamwave,electronicmusic,ambient,postrock,chill,electronic]
   cover_url: https://i1.sndcdn.com/artworks-000242198108-v5kpam-t500x500.jpg
   download_url: https://soundcloud.com/ryefield-society/memory-blossoms
@@ -33,10 +35,11 @@ MB:
   is_featured: false
 BASEL:
   title: Basel
-  type: Single
   artist: Ryefield Society
   release_date: 2017-03-28
+  type: Single
   excerpt: Ryefield Society - Basel
+  page: _posts/2016-03-24-basel-night-walks.md
   tags: [ambient]
   cover_url: https://i1.sndcdn.com/artworks-000152619214-22n0fw-t500x500.jpg
   download_url: https://soundcloud.com/ryefield-society/sets/basel
@@ -52,11 +55,11 @@ BASEL:
 
 VDLAM:
   title: Vertiges de l'ancien monde
-  type: EP
   artist: Seuls Nos Soupirs
   release_date: 2017-08-02
+  type: EP
   excerpt: 
-  page: _post/2017-08-01-vertiges.md
+  page: _posts/2017-08-01-vertiges.md
   tags: [black,metal,experimental,metal,post,black,metal,dsbm,emo,post-hardcore,post-rock,screamo,France]
   cover_url: https://f4.bcbits.com/img/a1636318972_10.jpg
   download_url: https://seulsnossoupirs.bandcamp.com/album/vertiges-de-lancien-monde
@@ -65,11 +68,11 @@ VDLAM:
   is_featured: false
 AFFRES:
   title: Affres
-  type: EP
   artist: Seuls Nos Soupirs
   release_date: 2018-04-20
+  type: EP
   excerpt: \"Affres" is the second EP of Seuls Nos Soupirs. Following "Vertiges de l'Ancien Monde" S.N.S choose to follow their path between Black Metal and Post musics trying to express something more personnal.
-  page: _post/2018-04-20-affres.md
+  page: _posts/2018-04-20-affres.md
   tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,ambient,dark,ambient,post,post,black,metal,post,rock,symphonic,black,metal,France]
   cover_url: https://f4.bcbits.com/img/a3160562488_10.jpg
   download_url: https://seulsnossoupirs.bandcamp.com/album/affres
@@ -78,11 +81,11 @@ AFFRES:
   is_featured: false
 ECUEILS:
   title: Écueils
-  type: EP
   artist: Seuls Nos Soupirs
   release_date: 2019-04-24
+  type: EP
   excerpt: \"Écueils" is the second EP of a trilogy Seuls Nos Soupirs started in 2018 with "Affres".
-  page: _post/2019-05-24-ecueils.md
+  page: _posts/2019-05-24-ecueils.md
   tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,post,black,metal,ambient,depressive,black,metal,post-rock,symphonic,black,metal,France]
   cover_url: https://f4.bcbits.com/img/a1488425474_10.jpg
   download_url: https://seulsnossoupirs.bandcamp.com/album/cueils
@@ -96,36 +99,38 @@ ECUEILS:
 
 MFAS-HO:
   title: Music for Another Sky (Home Outside)
-  type: contribution
   artist: Various Artists
   release_date: 2021-01-25
-  excerpt:  in January 2021.
-  page: pages/releases/ho.md
+  type: Compilation
+  excerpt:
+  page: pages/releases/music-for-another-sky.md
   tags: [ambient,devotional,drone,electronic,experimental,widescreen,Bristol]
   cover_url: https://f4.bcbits.com/img/a3249034876_10.jpg
   download_url: https://mailbox-label.bandcamp.com/album/music-for-another-sky
   is_featured: true
 WIL-OX:
   title: Working In Loneliness (Oxytocin)
-  type: contribution
   artist: Various Artists
   release_date: 2020-03-16
-  page: pages/releases/wil.md
-  tags: [rock,ambient,chillwave,indie,rock,math,rock,one,man,band,post-rock,shoegaze,slowcore,France]
+  type: Compilation
   excerpt: >-
     Initially released as part of the compilation \"Working In Loneliness\" published by Spleencore Records in March 2020. 
     Working in Loneliness tries to be an overview of French one wo.man bands. Presenting songs by artists with various approach, from DIY Nerds to Studio Experts, these 7 songs don't pretend to be the resume of the scene but a quick snapshot its energy. 
     All the benefits will be donated to Le refuge (www.le-refuge.org) which takes care of young rejected LGBTQI+
+  page: pages/releases/working-in-loneliness.md
+  tags: [rock,ambient,chillwave,indie,rock,math,rock,one,man,band,post-rock,shoegaze,slowcore,France]
   cover_url: https://f4.bcbits.com/img/a1150332618_10.jpg
   download_url: https://spleencorerecords.bandcamp.com/album/working-in-loneliness
   is_featured: true
+  is_hidden: false
 
 ## ------------------- ##
 ## REMIXES, EDITS ETC. ##
 ## ------------------- ##
+
 AdC-CJQD:
   title: Ces jours qui disparaissent (Ryefield Society Remix)
-  type: remix
+  type: Remix
   artist: Ryefield Society
   release_date: 2021-05-07
   excerpt: 
@@ -137,9 +142,9 @@ AdC-CJQD:
   is_featured: false
 DS-W:
   title: Dua Saleh - windhymn (Ryefield Society Edit)
-  type: edit
   artist: Ryefield Society
   release_date: 2020-07-26
+  type: Edit
   excerpt: Ryefield Society Edit of Dua Saleh - windhymn
   tags: [edit]
   page: _posts/2020-07-26-windhymn.md
@@ -149,14 +154,14 @@ DS-W:
   is_featured: false
 WD-T:
   title: Winter Dust - There (Ryefield Society Remix)
-  type: remix
   artist: Ryefield Society
   release_date: 2015-11-12
+  page: _posts/2015-11-12-winter-dust-there.md
+  type: Remix
   excerpt: >-
     Many thanks to @winterdustmusic. It was a real pleasure remixing such a wonderful track.  If you don't know their music, you should really get their last EP : winter-dust.bandcamp.com  Original track : Winterdustmusic – 01-there
   cover_url: https://i1.sndcdn.com/artworks-000135911523-bwxprp-t500x500.jpg
   download_url: https://soundcloud.com/ryefield-society/winter-dust-there-ryefield-society-remix
-  page: _posts/2015-11-12-winter-dust-there.md
   is_hidden: false
   is_featured: false
 

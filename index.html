@@ -6,16 +6,18 @@ title: Home
 ---
 
 <div class="carrousel">
-{% for release in site.data.discography %}
-{% assign item = release[1]  %}
-{% if item.is_featured == true %}
+{% for item in site.data.discography %}
+{% assign release = item[1] %}
+{% if release.is_featured == true %}
+{% unless release.is_hidden %}
     <div class="release">
-        <a href="{% link {{ item.page }} %}">
-        <img class="cover" src="{{ item.cover_url }}" alt="{{ item.title }} cover art"/>
+        <a href="{% link {{ release.page }} %}">
+        <img class="cover" src="{{ release.cover_url }}" alt="{{ release.title }} cover art"/>
         <br>
-        <p id="legend">{{ item.title }}&nbsp;-&nbsp;{{ item.release_date | date: "%Y" }}</p>
+        <p id="legend">{{ release.title }}&nbsp;-&nbsp;{{ release.release_date | date: "%Y" }}</p>
         </a>
     </div>
+{% endunless %}
 {% endif %}
 {% endfor %}
 </div>

@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  border-bottom: solid black 1px;
+  max-width: 80%;
+}
+
+img .release {
+  background-color: red;
+}
+
+.release {
+  display: flex;
+  flex-grow: 1;
+}
+
+.release-meta {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2em;
+  flex: 1;
+}

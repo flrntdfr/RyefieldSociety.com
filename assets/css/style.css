@@ -32,12 +32,6 @@ nav {
 	display: inline-block;
 }
 
-.logo {
-	font-size: 1.5em;
-	text-transform: uppercase;
-	letter-spacing: 0.15em;
-}
-
 .cover {
 	/* Make img fit wrapping div */
 	max-width: 100%;
@@ -61,7 +55,6 @@ a:link {
 
 a,
 a:visited {
-	text-decoration: none;
 	color: inherit;
 }
 
@@ -72,6 +65,7 @@ a:hover {
 nav a {
 	display: inline-block;
 	position: relative;
+	text-decoration: none;
 }
 
 nav a:hover {
@@ -102,6 +96,13 @@ i:hover {
 
 a.cta {
 	text-decoration: underline;
+}
+
+.logo {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	text-decoration: none;
 }
 
 /* ********** *
@@ -143,27 +144,13 @@ a.cta {
 .release {
 	margin: 20px;
 	width: 250px;
+	height: 250px
 }
 
 #legend {
 	text-align: center;
 	margin-top: 1em;
 }
-
-/* ********** *
- * News stuff *
- * ********** */
-
-.post {
-	border-left: solid black 2px;
-	padding-left: 1em;
-	transition: border-left 0.10s ease-out;
- }
-
- .post:hover {
-	border-left: solid black 10px;
-	transition: border-left 0.10s ease-out;
- }
 
 /* ************ *
  * FOOTER STUFF *

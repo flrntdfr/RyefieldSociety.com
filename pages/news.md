@@ -3,6 +3,8 @@
 layout: feed
 title: News
 permalink: /news
+css:
+  - news.css
 ---
 
 <div class="feed">
