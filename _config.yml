@@ -9,7 +9,6 @@ avatar: https://f4.bcbits.com/img/0023280376_10.jpg
 description: >- 
   Ryefield Society Music.
 keywords: Ryefield, Society, Music, Ambient, Bandcamp, Independant, Experimental, postrock, French
-url: "https://RyefieldSociety.com"
 site_inception: 2021-08-08
 language: en
 encoding: utf-8
@@ -20,8 +19,6 @@ theme-color: "#ffffff"
 # ------------- #
 
 excerpt_separator: <!--more-->
-# paginate: 10
-# paginate_path: "/news/page:num/"
 
 # -------------- #
 # Build settings #
@@ -30,8 +27,6 @@ excerpt_separator: <!--more-->
 plugins:
   # Build RSS feed, see here: https://github.com/jekyll/jekyll-feed
   - jekyll-feed
-  # And paginate
-  #- jekyll-paginate-v2
   # Build search engine tags for indexing, see here: https://github.com/jekyll/jekyll-seo-tag
   - jekyll-seo-tag
 
