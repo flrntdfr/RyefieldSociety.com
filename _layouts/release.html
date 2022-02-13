@@ -1,7 +1,19 @@
 ---
 layout: default
-title: Release
-key:
 ---
 
-{{ content }}
+{% assign release = site.data.discography[page.id] %}
+
+<div class="left-and-right">
+  <div class="left">
+    {{ release.preview_code }}
+  </div>
+  <div class="right">
+    <h2>{{ release.title }}</h2>
+    <h3>{{ release.artist }} - {{ release.release_date | date: "%b, %-d %Y" }}</h3>
+    <p>{{ release.label }}</p>
+    <p>{{ release.excerpt }}</p>
+    
+    {{ content }}
+  </div>
+</div>

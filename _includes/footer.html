@@ -7,6 +7,6 @@
     </div>
 
     <div class="copyright">
-        © {{ site.site_inception.year }} - {{ site.owner }}
+        © {{ site.site_inception | date: "%Y" }} - {{ "now" | date: "%Y" }} - {{ site.owner }}
     </div>
 </footer>

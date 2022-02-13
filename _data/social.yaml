@@ -30,6 +30,5 @@ instagram:
   icon: fab fa-instagram
 rss:
   username:
-  # String interpolation does not work in data files. Don't forget to update below
-  url: https://RyefieldSociety/feed.xml
+  url: /feed.xml
   icon: fas fa-rss-square

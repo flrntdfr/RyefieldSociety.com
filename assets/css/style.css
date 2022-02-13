@@ -149,7 +149,17 @@ blockquote {
 	padding-right: 10%;
 }
 
-.bottom-page {}
+@media only screen and (max-width: 768px) {
+	/* Mobile phone */
+	.content-page {
+		padding-left: 0%;
+		padding-right: 0%;
+	}
+}
+
+.bottom-page {
+		
+}
 
 /*
  * carrousel displaying one or multiple releases
@@ -166,12 +176,24 @@ blockquote {
 .release {
 	margin: 20px;
 	width: 250px;
-	height: 250px
+	height: 250px;
+	padding-top: 5em;
+	padding-bottom: 3em;
 }
 
 #legend {
 	text-align: center;
 	margin-top: 1em;
+}
+
+.left-and-right {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.right {
+	flex: 1;
+	padding-left: 20px;
 }
 
 /* ************ *

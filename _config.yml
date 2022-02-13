@@ -10,10 +10,7 @@ description: >-
   Ryefield Society Music.
 keywords: Ryefield, Society, Music, Ambient, Bandcamp, Independant, Experimental, postrock, French
 url: "https://RyefieldSociety.com"
-site_inception:
-  year: 2021
-  month: 8
-  day: 8
+site_inception: 2021-08-08
 language: en
 encoding: utf-8
 theme-color: "#ffffff"

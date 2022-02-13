@@ -1,6 +1,6 @@
 ---
 # There is redundant code here...
-# ...That's the best we can do with Liquid at the moment.
+# ...That's the best we can do with Liquid at the moment (2022).
 layout: default
 title: Discography
 permalink: /discography
@@ -8,7 +8,7 @@ css:
   - discography.css
 ---
 
-{% comment %}
+<!-- 
 # Albums
 
 {% for item in site.data.discography %}
@@ -19,8 +19,7 @@ css:
 {% endif %}
 {% endunless %}
 {% endfor %}
-
-{% endcomment %}
+-->
 
 # EPs
 

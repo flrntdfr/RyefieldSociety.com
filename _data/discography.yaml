@@ -7,17 +7,20 @@
 TAPOA:
   title: The Alternative Path Of Abstraction
   artist: Ryefield Society
-  release_date: 2020-05-15
-  label: Spleen Core records
-  release_id: SCO4
   type: EP
-  excerpt: Composed over the last two years, The Alternative Path of Abstraction is a five-track EP by French musician Ryefield Society. Made of electronic sounds, samples from old records and guitar chords, it focuses on the feelings of anxiety and explores abstraction - in its multiple definitions - as a way to escape them.
-  page: pages/releases/tapoa.md
+  release_date: 2020-05-15
+  label: Spleencore Records
+  label_release_id: SCO4
+  excerpt: >- 
+    Composed over the last two years, The Alternative Path of Abstraction is a five-track EP by French musician Ryefield Society. 
+    Made of electronic sounds, samples from old records and guitar chords, it focuses on the feelings of anxiety and explores abstraction - in its multiple definitions - as a way to escape them.
   tags: [electronic,experimental,rock,abstract,ambient,chillwave,indie,rock,one,man,band,post-rock,slowcore,France]
+  page: pages/releases/tapoa.md
   cover_url: https://f4.bcbits.com/img/a2244971505_10.jpg
   discogs_url: https://www.discogs.com/Ryefield-Society-The-Alternative-Path-Of-Abstraction/master/2160259
   download_url: https://spleencorerecords.bandcamp.com/album/the-alternative-path-of-abstraction
   clip_url: https://video.twimg.com/ext_tw_video/1258067531127906304/pu/vid/1280x720/Mu-rLjlVrB9sTkwM.mp4?tag=10
+  preview_code: '<iframe style="border: 0; width: 350px; height: 688px;" src="https://bandcamp.com/EmbeddedPlayer/album=1077529808/size=large/bgcol=ffffff/linkcol=333333/package=2970086173/transparent=true/" seamless><a href="https://spleencorerecords.bandcamp.com/album/the-alternative-path-of-abstraction">The Alternative Path of Abstraction by Ryefield Society</a></iframe>'
   is_hidden: false
   is_featured: true
 MB:
@@ -71,7 +74,9 @@ AFFRES:
   artist: Seuls Nos Soupirs
   release_date: 2018-04-20
   type: EP
-  excerpt: \"Affres" is the second EP of Seuls Nos Soupirs. Following "Vertiges de l'Ancien Monde" S.N.S choose to follow their path between Black Metal and Post musics trying to express something more personnal.
+  label: Endless Decrepitude Productions
+  excerpt: >-
+    "Affres" is the second EP of Seuls Nos Soupirs. Following "Vertiges de l'Ancien Monde" S.N.S choose to follow their path between Black Metal and Post musics trying to express something more personnal.
   page: _posts/2018-04-20-affres.md
   tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,ambient,dark,ambient,post,post,black,metal,post,rock,symphonic,black,metal,France]
   cover_url: https://f4.bcbits.com/img/a3160562488_10.jpg
@@ -84,7 +89,8 @@ ECUEILS:
   artist: Seuls Nos Soupirs
   release_date: 2019-04-24
   type: EP
-  excerpt: \"Écueils" is the second EP of a trilogy Seuls Nos Soupirs started in 2018 with "Affres".
+  excerpt: >-
+    "Écueils" is the second EP of a trilogy Seuls Nos Soupirs started in 2018 with "Affres".
   page: _posts/2019-05-24-ecueils.md
   tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,post,black,metal,ambient,depressive,black,metal,post-rock,symphonic,black,metal,France]
   cover_url: https://f4.bcbits.com/img/a1488425474_10.jpg
@@ -98,29 +104,40 @@ ECUEILS:
 ## ----------------------------- ##
 
 MFAS-HO:
-  title: Music for Another Sky (Home Outside)
+  title: Home Outside, for Music for Another Sky
   artist: Various Artists
-  release_date: 2021-01-25
   type: Compilation
-  excerpt:
-  page: pages/releases/music-for-another-sky.md
+  release_date: 2021-01-25
+  label: Mailbox Records (Bristol)
+  label_release_id: 
+  excerpt: >-
+    "Home Outside" is part of the compilation Music for Another Sky released by Mailbox Records in January 2021. 
+    This 32-track compilation has been put together in order to raise awareness and/or raise money for the UK charity, Refuge. This means 100% of proceeds from all sales will go to them (after the standard deductions from Bandcamp and PayPal). 
+    It was 1971 when Refuge opened the world’s first safe house, so this year marks the 50th year they’ve been helping women and children escape a life of abuse and violence; the first to make the point that violence in the home was no longer “a private matter” for society to simply turn a blind eye. 
+    Refuge’s reputation for helping vulnerable people comes at a time where domestic violence (globally) has increased recently by nearly 30%, according to the UN; this is due in no small part to the government lockdowns brought on by the Covid-19 pandemic. Victims often now find themselves under constant surveillance by their abuser where phones are regularly checked and/or confiscated, making it harder than ever to call or text for help. 
   tags: [ambient,devotional,drone,electronic,experimental,widescreen,Bristol]
+  page: pages/releases/home-outside.md
   cover_url: https://f4.bcbits.com/img/a3249034876_10.jpg
-  download_url: https://mailbox-label.bandcamp.com/album/music-for-another-sky
+  download_url: https://ryefieldsociety.bandcamp.com/track/home-outside
+  preview_code: '<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4092865500/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://ryefieldsociety.bandcamp.com/track/home-outside">Home Outside by Ryefield Society</a></iframe>'
+  is_hidden: false
   is_featured: true
 WIL-OX:
-  title: Working In Loneliness (Oxytocin)
+  title: Oxytocin, for Working In Loneliness
   artist: Various Artists
-  release_date: 2020-03-16
   type: Compilation
+  release_date: 2020-03-16
+  label: Spleencore Records
+  label_release_id: SC?
   excerpt: >-
-    Initially released as part of the compilation \"Working In Loneliness\" published by Spleencore Records in March 2020. 
+    Initially released as part of the compilation "Working In Loneliness" published by Spleencore Records in March 2020. 
     Working in Loneliness tries to be an overview of French one wo.man bands. Presenting songs by artists with various approach, from DIY Nerds to Studio Experts, these 7 songs don't pretend to be the resume of the scene but a quick snapshot its energy. 
     All the benefits will be donated to Le refuge (www.le-refuge.org) which takes care of young rejected LGBTQI+
-  page: pages/releases/working-in-loneliness.md
   tags: [rock,ambient,chillwave,indie,rock,math,rock,one,man,band,post-rock,shoegaze,slowcore,France]
+  page: pages/releases/oxytocin.md
   cover_url: https://f4.bcbits.com/img/a1150332618_10.jpg
   download_url: https://spleencorerecords.bandcamp.com/album/working-in-loneliness
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2811551279/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=722581835/transparent=true/" seamless><a href="https://spleencorerecords.bandcamp.com/album/working-in-loneliness">Working In Loneliness by Ryefield Society</a></iframe>'
   is_featured: true
   is_hidden: false
 
