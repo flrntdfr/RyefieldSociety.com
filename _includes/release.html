@@ -1,9 +1,9 @@
 <div class="entry">
-  <a href="">
+  <a href="{{ release.page }}">
   <img class="cover" src="{{ release.cover_url }}" alt="{{ release.title }} cover art"/>
   </a>
   <div class="entry-metadata">
-    <a href=""><h3>{{ release.title }}</h3></a>
+    <a href="{{ release.page }}"><h3>{{ release.title }}</h3></a>
     <h4>{{ release.artist }}</h4>
     <p>{{ release.label }} {% if release.label%}-{% endif %} {{ release.release_date | date: "%b %d, %Y" }}</p>
   </div>
