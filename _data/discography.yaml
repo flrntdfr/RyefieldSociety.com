@@ -56,16 +56,18 @@ BASEL:
 
 ## SEULS NOS SOUPIRS
 
-VDLAM:
-  title: Vertiges de l'ancien monde
+ECUEILS:
+  title: Écueils
   artist: Seuls Nos Soupirs
-  release_date: 2017-08-02
+  release_date: 2019-04-24
   type: EP
-  excerpt: 
-  page: _posts/2017-08-01-vertiges.md
-  tags: [black,metal,experimental,metal,post,black,metal,dsbm,emo,post-hardcore,post-rock,screamo,France]
-  cover_url: https://f4.bcbits.com/img/a1636318972_10.jpg
-  download_url: https://seulsnossoupirs.bandcamp.com/album/vertiges-de-lancien-monde
+  label: Endless Decrepitude Productions
+  excerpt: >-
+    "Écueils" is the second EP of a trilogy Seuls Nos Soupirs started in 2018 with "Affres".
+  page: _posts/2019-05-24-ecueils.md
+  tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,post,black,metal,ambient,depressive,black,metal,post-rock,symphonic,black,metal,France]
+  cover_url: https://f4.bcbits.com/img/a1488425474_10.jpg
+  download_url: https://seulsnossoupirs.bandcamp.com/album/cueils
   clip_url: 
   is_hidden: false
   is_featured: false
@@ -84,17 +86,16 @@ AFFRES:
   clip_url: 
   is_hidden: false
   is_featured: false
-ECUEILS:
-  title: Écueils
+VDLAM:
+  title: Vertiges de l'ancien monde
   artist: Seuls Nos Soupirs
-  release_date: 2019-04-24
+  release_date: 2017-08-02
   type: EP
-  excerpt: >-
-    "Écueils" is the second EP of a trilogy Seuls Nos Soupirs started in 2018 with "Affres".
-  page: _posts/2019-05-24-ecueils.md
-  tags: [atmospheric,black,metal,black,metal,dark,ambient,metal,pagan,black,metal,post,black,metal,ambient,depressive,black,metal,post-rock,symphonic,black,metal,France]
-  cover_url: https://f4.bcbits.com/img/a1488425474_10.jpg
-  download_url: https://seulsnossoupirs.bandcamp.com/album/cueils
+  excerpt: 
+  page: _posts/2017-08-01-vertiges.md
+  tags: [black,metal,experimental,metal,post,black,metal,dsbm,emo,post-hardcore,post-rock,screamo,France]
+  cover_url: https://f4.bcbits.com/img/a1636318972_10.jpg
+  download_url: https://seulsnossoupirs.bandcamp.com/album/vertiges-de-lancien-monde
   clip_url: 
   is_hidden: false
   is_featured: false

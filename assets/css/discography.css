@@ -1,21 +1,24 @@
 h1 {
   text-align: center;
   border-bottom: solid black 1px;
-
 }
 
-img .release {
-  background-color: red;
-}
-
-.release {
-  display: flex;
-  flex-grow: 1;
-}
-
-.release-meta {
+.rows {
   display: flex;
   flex-direction: column;
-  margin-left: 2em;
-  flex: 1;
+  justify-content: space-around;
+}
+
+.entry {
+  display: flex;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.entry img {
+  width: 250px;
+}
+
+.entry-metadata {
+  padding-left: 2em;
 }

@@ -1,10 +1,10 @@
-<div class="release">
+<div class="entry">
   <a href="{% link {{ release.page }} %}">
   <img class="cover" src="{{ release.cover_url }}" alt="{{ release.title }} cover art"/>
   </a>
-  <div class="release-meta">
-    <h3>{{ release.title }}</h3>
+  <div class="entry-metadata">
+    <a href="{% link {{ release.page }} %}"><h3>{{ release.title }}</h3></a>
     <h4>{{ release.artist }}</h4>
-    <p>Release date: {{ release.release_date | date: "%b %d, %Y" }}</p>
+    <p>{{ release.label }} {% if release.label%}-{% endif %} {{ release.release_date | date: "%b %d, %Y" }}</p>
   </div>
 </div>

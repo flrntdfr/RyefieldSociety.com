@@ -21,8 +21,9 @@ css:
 {% endfor %}
 -->
 
-# EPs
+<h1>EPs</h1>
 
+<div class="rows">
 {% for item in site.data.discography %}
 {% assign release = item[1] %}
 {% unless release.is_hidden %}
@@ -31,9 +32,11 @@ css:
 {% endif %}
 {% endunless %}
 {% endfor %}
+</div>
 
-# Compilations
+<h1>Compilations</h1>
 
+<div class="rows">
 {% for item in site.data.discography %}
 {% assign release = item[1] %}
 {% unless release.is_hidden %}
@@ -42,9 +45,11 @@ css:
 {% endif %}
 {% endunless %}
 {% endfor %}
+</div>
 
-# Singles
+<h1>Singles</h1>
 
+<div class="rows">
 {% for item in site.data.discography %}
 {% assign release = item[1] %}
 {% unless release.is_hidden %}
@@ -53,9 +58,11 @@ css:
 {% endif %}
 {% endunless %}
 {% endfor %}
+</div>
 
-# Remixes and Edits
+<h1>Remixes and Edits</h1>
 
+<div class="rows">
 {% for item in site.data.discography %}
 {% assign release = item[1] %}
 {% unless release.is_hidden %}
@@ -64,3 +71,4 @@ css:
 {% endif %}
 {% endunless %}
 {% endfor %}
+</div>

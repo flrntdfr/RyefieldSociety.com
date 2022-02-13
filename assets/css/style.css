@@ -104,6 +104,10 @@ blockquote {
 	padding-left: 1em;
 }
 
+blockquote a {
+	text-decoration: underline;
+}
+
 /* ***** *
  * MUSIC *
  * ***** */

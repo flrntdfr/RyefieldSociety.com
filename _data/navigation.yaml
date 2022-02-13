@@ -3,7 +3,7 @@
 # See navigation.html for formatting
 
 - label: discography
-  href: pages/discography.md
+  href: pages/discography.html
   target: _self
 - label: about
   href: pages/about.md
