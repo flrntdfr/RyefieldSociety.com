@@ -11,7 +11,7 @@ title: Home
 {% if release.is_featured == true %}
 {% unless release.is_hidden %}
     <div class="release">
-        <a href="{% link {{ release.page }} %}">
+        <a href={% link {{ release.page }} %}>
         <img class="cover" src="{{ release.cover_url }}" alt="{{ release.title }} cover art"/>
         <br>
         <p id="legend">{{ release.title }}&nbsp;-&nbsp;{{ release.release_date | date: "%Y" }}</p>
