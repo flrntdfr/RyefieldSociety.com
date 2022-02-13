@@ -1,5 +1,5 @@
 <nav> /
     {% for entry in site.data.navigation %}
-    <a href="" target="{{ entry.target }}">{{ entry.label }}</a> /
+    <a href="{{ entry.href }}" target="{{ entry.target }}">{{ entry.label }}</a> /
     {% endfor %}
 </nav>
