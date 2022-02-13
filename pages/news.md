@@ -1,6 +1,5 @@
 ---
-# Populated by jekyll-feed
-layout: feed
+layout: news
 title: News
 permalink: /news
 css:
@@ -8,6 +7,5 @@ css:
 ---
 
 <div class="feed">
-{{ content }}
+  {{ content }}
 </div>
-

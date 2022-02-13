@@ -16,7 +16,7 @@ news:
 #   target: _self
 contact:
   label: contact
-  href: pages/contact.md
+  href: pages/contact.html
   target: _self
 live:
   label: live
