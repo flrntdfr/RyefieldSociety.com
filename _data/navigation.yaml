@@ -1,25 +1,20 @@
-# Items to display in the top nav bar
+# Array of items to display in the top nav bar
 # In this order: top to bottom
-# See nav.html for formatting
+# See navigation.html for formatting
 
-discography:
-  label: discography
+- label: discography
   href: pages/discography.md
   target: _self
-news:
-  label: news
+- label: about
+  href: pages/about.md
+  target: _self
+- label: news
   href: pages/news.md
   target: _self
-# about:
-#   label: about
-#   href: pages/about.md
-#   target: _self
-contact:
-  label: contact
+- label: contact
   href: pages/contact.html
   target: _self
-live:
-  label: live
+- label: live
   href: pages/live.md
   target: _self
 # press:
