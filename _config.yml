@@ -27,8 +27,10 @@ excerpt_separator: <!--more-->
 plugins:
   # Build RSS feed, see here: https://github.com/jekyll/jekyll-feed
   - jekyll-feed
-  # Build search engine tags for indexing, see here: https://github.com/jekyll/jekyll-seo-tag
+  # Build search engine tags for seo, see here: https://github.com/jekyll/jekyll-seo-tag
   - jekyll-seo-tag
+  # Build the sitemap, see here: https://github.com/jekyll/jekyll-sitemap
+  - jekyll-sitemap
 
 exclude:
   - .sass-cache/
