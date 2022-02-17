@@ -2,6 +2,9 @@
 # Run Jekyll in a container
 # See Makefile for commands
 
+JEKYLL_VERSION=latest
 HOST_PORT=4000
 
-eval docker run --rm --volume="$PWD:/srv/jekyll" -p $HOST_PORT:4000 -it jekyll/jekyll jekyll "$@"
+set -ex
+
+docker run --rm --volume="$PWD:/srv/jekyll" -p $HOST_PORT:4000 -it jekyll/jekyll:"$JEKYLL_VERSION" jekyll "$@"
