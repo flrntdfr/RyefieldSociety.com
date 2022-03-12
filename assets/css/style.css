@@ -4,7 +4,8 @@ body {
 	font-family: 'Zen Old Mincho', serif;
     background-image: url(../../logo.svg);
     background-repeat: no-repeat;
-    /*background-size: 25% 25%;*/
+    background-size: 300px 300px;
+    background-position: -5% -5%;
 }
 
 /* **** *
