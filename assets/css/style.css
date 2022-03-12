@@ -1,7 +1,7 @@
 /* RyefieldSociety.com */
-@import url('https://fonts.googleapis.com/css2?family=Caudex&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caudex&family=EB+Garamond&display=swap');
 body {
-	font-family: 'Caudex', serif;
+	font-family: 'EB Garamond', serif;
 }
 
 /* **** *
@@ -16,10 +16,10 @@ body {
 }
 
 /* TODO: Un logo sn SVG qui pète */
-.logo a {
+/*.logo a {
 	letter-spacing: -0.01em;
 }
-
+*/
 /* ******* *
  * THEMING *
  * ******* */
@@ -208,7 +208,7 @@ footer {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	/* #text-transform: uppercase; */
+	text-transform: uppercase;
 }
 
 footer i {
