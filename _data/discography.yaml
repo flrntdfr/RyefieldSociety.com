@@ -105,7 +105,8 @@ VDLAM:
 ## ----------------------------- ##
 
 MFAS-HO:
-  title: Home Outside, for Music for Another Sky
+  title: Home Outside
+  album: Music for Another Sky
   artist: Various Artists
   type: Compilation
   release_date: 2021-01-25
@@ -124,7 +125,8 @@ MFAS-HO:
   is_hidden: false
   is_featured: true
 WIL-OX:
-  title: Oxytocin, for Working In Loneliness
+  title: Oxytocin
+  album: Working In Loneliness
   artist: Various Artists
   type: Compilation
   release_date: 2020-03-16
@@ -148,6 +150,8 @@ WIL-OX:
 
 AdC-CJQD:
   title: Ces jours qui disparaissent (Ryefield Society Remix)
+  album: Paralysis: Variations
+  label: Stellar Frequencies
   type: Remix
   artist: Alpha du Centaure
   release_date: 2021-05-07
