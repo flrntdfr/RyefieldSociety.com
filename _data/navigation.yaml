@@ -2,20 +2,17 @@
 # In this order: top to bottom
 # See navigation for formatting
 
-- label: discography
-  href: /discography
-  target: _self
 - label: about
   href: /about
   target: _self
 - label: news
   href: /news
   target: _self
+- label: discography
+  href: /discography
+  target: _self
 - label: contact
   href: /contact
-  target: _self
-- label: live
-  href: /live
   target: _self
 # press:
 #   label: press kit
