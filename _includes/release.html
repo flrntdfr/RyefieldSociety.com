@@ -4,7 +4,7 @@
   </a>
   <div class="entry-metadata">
     <a href="{{ release.page }}"><h3>{{ release.title }}</h3></a>
-    <h4>{{% if release.album %}-{% endif %}</h4>
+    <h4>{{ release.album }} {% if release.album %}-{% endif %}</h4>
     <h4>{{ release.artist }}</h4>
     <p>{{ release.label }} {% if release.label%}-{% endif %} {{ release.release_date | date: "%b %d, %Y" }}</p>
   </div>
