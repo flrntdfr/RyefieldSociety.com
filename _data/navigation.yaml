@@ -2,6 +2,9 @@
 # In this order: top to bottom
 # See navigation for formatting
 
+- label: home
+  href: /
+  target: _self
 - label: about
   href: /about
   target: _self
