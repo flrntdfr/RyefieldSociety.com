@@ -7,15 +7,15 @@ tags: [release]
 permalink: /news/20200515-01
 ---
 
-The Alternative Path of Abstraction is <!--more-->out now, hope you'll like it!
+My first EP The Alternative Path of Abstraction is <!--more-->out now, on Spleencore Records!
 
 Tracklist:
 
 1. Fragments of Truth
-1. Blurry Me
-1. Nighttime Decisions
-1. Meadows
-1. Blurry Me (Scepticisme Remix)
+2. Blurry Me
+3. Nighttime Decisions
+4. Meadows
+5. Blurry Me (Scepticisme Remix)
 
 Free download on bandcamp:
 

@@ -6,10 +6,9 @@ categories: release
 permalink: /news/2021-05-12-001
 ---
 
-In order to  celebrate the 1st anniversary of its digital release, Spleencore Records is <!--more-->offering my EP "The Alternative Path Of Abstraction" a limited cassette edition. As a bonus track: a previously unreleased piano reprise of "Meadows".
+To celebrate the first anniversary of its digital release, Spleencore Records is <!--more-->offering my EP "The Alternative Path Of Abstraction" a limited cassette edition. As a bonus track: a previously unreleased piano reprise of "Meadows".
 
-10 copies for sale starting today !
-
+Limited edition of 10 copies
 Cassette: 6€
 Shipping to France: 2.70€, to Europe/World: 5.50€
 
