@@ -103,6 +103,22 @@ VDLAM:
 ## CONTRIBUTIONS ON COMPILATIONS ##
 ## ----------------------------- ##
 
+SS-UP:
+  title: Unsent Postcard
+  album: Siren Songs: Solidarity with Ukraine
+  type: Compilation
+  release_date: 2022-04-07
+  label: Mailbox Records
+  label_release_id: 
+  excerpt: >-
+    "Unsent Postcard" is part of the compilation Siren Songs released by Mailbox Records in April 2022.  
+  tags: [ambient,devotional,drone,electronic,experimental,widescreen,Bristol]
+  page: /release/unsent-postcard
+  cover_url: https://f4.bcbits.com/img/a0524042285_10.jpg
+  download_url: https://mailbox-label.bandcamp.com/album/siren-songs-solidarity-with-ukraine
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2384990928/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mailbox-label.bandcamp.com/album/siren-songs-solidarity-with-ukraine">Siren Songs: Solidarity With Ukraine by Various Artists</a></iframe>'
+  is_hidden: false
+  is_featured: true
 MFAS-HO:
   title: Home Outside
   album: Music for Another Sky
@@ -138,7 +154,7 @@ WIL-OX:
   cover_url: https://f4.bcbits.com/img/a0449852834_10.jpg
   download_url: https://spleencorerecords.bandcamp.com/album/working-in-loneliness
   preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2811551279/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=722581835/transparent=true/" seamless><a href="https://spleencorerecords.bandcamp.com/album/working-in-loneliness">Working In Loneliness by Ryefield Society</a></iframe>'
-  is_featured: true
+  is_featured: false
   is_hidden: false
 
 ## ------------------- ##
