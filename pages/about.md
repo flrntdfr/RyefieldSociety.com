@@ -12,7 +12,7 @@ permalink: /about
 
 Ryefield Society is a solo electronic music project focused on ambient textures and melancholy. 
 
-Originally from France but now based in Cologne (Germany), Fantin started producing music at the age of 16, in 2010. After a decade spent exploring different musical genres and approaches - including electronics, post-rock and black metal -, he released his <a href='https://ryefieldsociety.com/release/the-alternative-path-of-abstraction'>first EP</a> on Spleencore Records in 2020. 
-In 2021, Ryefield Society contributed to the compilation <a href='https://ryefieldsociety.com/release/home-outside'>Music For Another Sky</a> curated by label Mailbox Records. 
+Originally from France but now based in Cologne (Germany), Fantin started producing music at the age of 16, in 2010. After a decade spent exploring different musical approaches and genres - including electronics, post-rock and black metal -, he released his <a href='https://ryefieldsociety.com/release/the-alternative-path-of-abstraction'>first EP</a> on Spleencore Records in 2020. 
+Recently, Ryefield Society contributed to the compilations <a href='https://ryefieldsociety.com/release/home-outside'>Music For Another Sky</a> and <a href='https://mailbox-label.bandcamp.com/album/siren-songs-solidarity-with-ukraine'>Siren Songs: Solidarity With Ukraine</a>, both curated by James McDermid and released by the label Mailbox. 
 
 A first album should be released in 2022.
