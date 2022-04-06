@@ -6,7 +6,7 @@ categories: appearance
 permalink: /news/20210731-001
 ---
 
-I have recently taken part in a YouTube challenge organized by Caminauta, aiming at exploring the relation between music and image. 
+I have recently taken part in a YouTube challenge organized by Caminauta, aiming at exploring the relation between music and image. <!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAxtYXf-0zI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

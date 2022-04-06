@@ -7,7 +7,7 @@ tags: [release]
 permalink: /news/20200515-01
 ---
 
-My first EP The Alternative Path of Abstraction is <!--more-->out now, on Spleencore Records!
+My first EP The Alternative Path of Abstraction is out now, on Spleencore Records!<!--more-->
 
 Tracklist:
 

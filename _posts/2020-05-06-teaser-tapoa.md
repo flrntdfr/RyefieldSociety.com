@@ -7,7 +7,7 @@ tags: [teaser, clip]
 permalink: /news/20200506-01
 ---
 
-May 15<sup>th</sup>, THE ALTERNATIVE PATH OF ABSTRACTION <!--more-->
+The Alternative Path Of Abstraction will be out on May 15th. <!--more-->
 
 
 <video width="500" controls>

@@ -7,7 +7,7 @@ tags: [featured,playlist]
 permalink: /news/20210125-01
 ---
 
-So happy to be part of this! Cannot tell how lucky I feel to <!--more-->have one track in the same compilation as some of my favorite ambient producers.
+So happy to be part of this! Cannot tell how lucky I feel to have one track in the same compilation as <!--more-->some of my favorite ambient producers.
 
 "Home Outside" is part of the compilation Music for Another Sky released by Mailbox Records, all proceeds go to [@RefugeCharity](https://twitter.com/RefugeCharity), helping victims of domestic violence.
 
