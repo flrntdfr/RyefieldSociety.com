@@ -16,7 +16,7 @@ h1 {
 }
 
 .entry img {
-  width: 250px;
+  max-width: 250px;
 }
 
 .entry-metadata {
