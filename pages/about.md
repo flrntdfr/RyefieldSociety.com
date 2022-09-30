@@ -7,8 +7,7 @@ permalink: /about
 <img class="circular-square" src="{{ site.avatar }}"
     alt="Ryefield Society Avatar"
     style = "float: left; padding-right: 2em;"
-    width=150px
-    height=150px />
+    height=500px /><br/>
 
 Ryefield Society is a solo electronic music project focused on ambient textures and melancholy. 
 
