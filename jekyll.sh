@@ -2,7 +2,7 @@
 # Run Jekyll in a container
 # See Makefile for commands
 
-JEKYLL_VERSION=latest
+JEKYLL_VERSION=3
 HOST_PORT=4000
 
 set -ex
