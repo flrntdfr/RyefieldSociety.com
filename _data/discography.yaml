@@ -105,6 +105,25 @@ VDLAM:
 ## ----------------------------- ##
 
 SS-UP:
+  title: Fatigue
+  album: 'Ambient Guitar Chronicles'
+  type: Compilation
+  release_date: 2022-11-26
+  label: Imaginary North
+  label_release_id: 
+  excerpt: >-
+    "Fatigue" is part of the compilation Ambient Guitar Chronicles released by Imaginary North in November 2022. 
+    The compilation includes nineteen original ambient tracks created using only guitars, effects pedals, and processing. Textures and tones for days.
+    "Fatigue" explores the mixed feelings of exhaustion and anxiety with fingerpicking and more abstract background loops.
+  tags: [ambient,guitar,fingerpicking,experimental,Toronto]
+  page: /release/fatigue
+  cover_url: https://f4.bcbits.com/img/a0447880067_10.jpg
+  download_url: https://imaginarynorth.bandcamp.com/album/ambient-guitar-chronicles
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1162925275/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3281819644/transparent=true/" seamless><a href="https://imaginarynorth.bandcamp.com/album/ambient-guitar-chronicles">Ambient Guitar Chronicles by Various Artists</a></iframe>'
+  is_hidden: false
+  is_featured: true
+  
+SS-UP:
   title: Unsent Postcard
   album: 'Siren Songs: Solidarity with Ukraine'
   type: Compilation
@@ -142,7 +161,7 @@ MFAS-HO:
   download_url: https://ryefieldsociety.bandcamp.com/track/home-outside
   preview_code: '<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4092865500/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://ryefieldsociety.bandcamp.com/track/home-outside">Home Outside by Ryefield Society</a></iframe>'
   is_hidden: false
-  is_featured: true
+  is_featured: false
 WIL-OX:
   title: Oxytocin
   album: Working In Loneliness
