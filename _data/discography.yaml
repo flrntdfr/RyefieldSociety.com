@@ -104,6 +104,26 @@ VDLAM:
 ## CONTRIBUTIONS ON COMPILATIONS ##
 ## ----------------------------- ##
 
+WE:
+  title: Warm Echoes
+  album: 'Mirinae 미리내'
+  type: Compilation
+  release_date: 2022-12-30
+  label: Huinali Recordings
+  label_release_id: HNC003
+  excerpt: >-
+    "Warm Echoes" is part of the compilation Mirinae 미리내 released by Huinali Recordings in December 2022. 
+    The compilation includes eighteen tracks exploring dark ambient and downtempo territories. It was mastered by Xergio Córdoba at Eternal Midnight studios in Spain. As other Huinali releases, its artwork was designed by Javier Marimon, aka Off T. "Mirinae / 미리내" is a dialect of the ancient Jeju island, it means "the Milky Way / 銀河水". Mirinae refers to a great cosmic river where dragons were living according to ancient Jeju inhabitants.
+    "Warm Echoes" blends guitar arpeggios, vintage ambient textures and downtempo beats into a luminous dub-inspired track.
+  tags: [dub,guitar,techno,downtempo,deep,Jeju]
+  page: /release/warm-echoes
+  cover_url: https://f4.bcbits.com/img/a1535840885_16.jpg
+  download_url: https://huinalidub.bandcamp.com/album/mirinae-hnc003
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2529805308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=768397138/transparent=true/" seamless><a href="https://huinalidub.bandcamp.com/album/mirinae-hnc003"></a></iframe>'
+  is_hidden: false
+  is_featured: true
+
+
 Fatigue:
   title: Fatigue
   album: 'Ambient Guitar Chronicles'
@@ -113,7 +133,7 @@ Fatigue:
   label_release_id: 
   excerpt: >-
     "Fatigue" is part of the compilation Ambient Guitar Chronicles released by Imaginary North in November 2022. 
-    The compilation includes nineteen original ambient tracks created using only guitars, effects pedals, and processing.
+    The compilation includes nineteen original ambient tracks created using only guitars, effect pedals, and processing.
     "Fatigue" explores the mixed feelings of exhaustion and anxiety with a fingerpicking approach and more abstract background loops.
   tags: [ambient,guitar,fingerpicking,experimental,Toronto]
   page: /release/fatigue
@@ -142,7 +162,7 @@ SS-UP:
   download_url: https://mailbox-label.bandcamp.com/album/siren-songs-solidarity-with-ukraine
   preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2384990928/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3831576818/transparent=true/" seamless><a href="https://mailbox-label.bandcamp.com/album/siren-songs-solidarity-with-ukraine">Siren Songs: Solidarity With Ukraine by Various Artists</a></iframe>'
   is_hidden: false
-  is_featured: true
+  is_featured: false
 MFAS-HO:
   title: Home Outside
   album: Music for Another Sky
