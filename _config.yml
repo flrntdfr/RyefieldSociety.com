@@ -13,6 +13,7 @@ site_inception: 2021-08-08
 language: en
 encoding: utf-8
 theme-color: "#ffffff"
+future: true
 
 # ------------- #
 # News settings #
