@@ -8,9 +8,9 @@ css:
   - discography.css
 ---
 
-<!-- 
-# Albums
 
+<h1>Albums</h1>
+<div class="rows">
 {% for item in site.data.discography %}
 {% assign release = item[1] %}
 {% unless release.is_hidden %}
@@ -19,7 +19,7 @@ css:
 {% endif %}
 {% endunless %}
 {% endfor %}
--->
+</div>
 
 <h1>EPs</h1>
 
