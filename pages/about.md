@@ -7,7 +7,7 @@ permalink: /about
 <img class="circular-square" src="{{ site.avatar }}"
     alt="Ryefield Society Avatar"
     style = "float: left; padding-right: 2em;"
-    height=150px />
+    width=50% />
 
 Behind the moniker Ryefield Society hides a French one-man project, delivering intimate electronic music composed of melancholic melodies, abstract textures and downtempo beats. After an inaugural tape EP on Spleencore Records in 2020 and contributions to diverse compilations, Ryefield Society releases an introspective first LP entitled 'Artless Ostinati' on Huinali Recordings in April 2023. 
 
