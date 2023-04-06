@@ -4,6 +4,25 @@
 ## ALBUMS, EPs, AND SINGLES ##
 ## ------------------------ ##
 
+
+AO:
+  title: Artless Ostinati
+  type: LP
+  release_date: 2023-04-17
+  label: Huinali Recordings
+  label_release_id: HNL018
+  excerpt: >- 
+    Artless Ostinati is about never-ending worries and remaining teen dreams.<br/>
+    In this first LP, Ryefield Society combines naive melodies and anxious beats to explore the feelings of adulting. An intimate portrait depicted under city lights by blurry guitars and minimal pianos.<br/>
+    The album includes a featuring with long-time collaborator Scepticisme and a stunning remix by Zeze Wakamatsu.
+  tags: [electronic,experimental,abstract,ambient,chillwave,indie,one,man,band,France]
+  page: /release/artless-ostinati
+  cover_url: https://f4.bcbits.com/img/a1172364847_10.jpg
+  download_url: https://huinalidub.bandcamp.com/album/artless-ostinati-hnl018
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2318940720/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://huinalidub.bandcamp.com/album/artless-ostinati-hnl018">Artless Ostinati by Ryefield Society</a></iframe>'
+  is_hidden: false
+  is_featured: true
+
 TAPOA:
   title: The Alternative Path Of Abstraction
   type: EP
@@ -141,7 +160,7 @@ Fatigue:
   download_url: https://imaginarynorth.bandcamp.com/album/ambient-guitar-chronicles
   preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1162925275/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3281819644/transparent=true/" seamless><a href="https://imaginarynorth.bandcamp.com/album/ambient-guitar-chronicles">Ambient Guitar Chronicles by Various Artists</a></iframe>'
   is_hidden: false
-  is_featured: true
+  is_featured: false
   
 SS-UP:
   title: Unsent Postcard
