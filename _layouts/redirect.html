@@ -1,0 +1,11 @@
+---
+target: https://example.com # Target page
+time: 0 # Time before redirect (in secs)
+---
+
+<head>
+  <meta http-equiv="refresh" content="{{ page.time }}; url={{ page.target }}" />
+</head>
+<body>
+  {{ content }}
+</body>
