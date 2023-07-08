@@ -134,6 +134,28 @@ VDLAM:
 ## CONTRIBUTIONS ON COMPILATIONS ##
 ## ----------------------------- ##
 
+
+FS:
+  title: Familiar Skies (Anemoia)
+  album: '場所精神 / Genius Loci Vol. 1'
+  type: Compilation
+  release_date: 2023-07-02
+  label: Jyugam
+  label_release_id: GM014
+  excerpt: >-
+    This track is part of the compilation 場所精神 / Genius Loci Vol. 1 released by chinese label Jyugam in July 2023. 
+    The compilation includes eleven tracks that cover a large scope of electronic music styles. It was mastered by Florence Tang and its artwork was designed by maf.
+    "Familiar Skies (Anemoia)" tries to put sounds on the comfortable sensations I associate to the place I grew up in. This dub-influenced downtempo track is a contemplative piece that aims to reflect the beauty of familiar landcapes and a feeling of imaginary nostalgia.
+  tags: [dub,techno,downtempo,deep,ambient]
+  page: /release/familiar-skies
+  cover_url: https://f4.bcbits.com/img/a3617115230_10.jpg
+  download_url: https://jyugam.bandcamp.com/album/genius-loci-vol-1
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=510838805/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2024108475/transparent=true/" seamless><a href="https://jyugam.bandcamp.com/album/genius-loci-vol-1"></a></iframe>'
+  is_hidden: false
+  is_featured: true
+
+
+
 WE:
   title: Warm Echoes
   album: 'Mirinae 미리내'
@@ -151,7 +173,7 @@ WE:
   download_url: https://huinalidub.bandcamp.com/album/mirinae-hnc003
   preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2529805308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=768397138/transparent=true/" seamless><a href="https://huinalidub.bandcamp.com/album/mirinae-hnc003"></a></iframe>'
   is_hidden: false
-  is_featured: true
+  is_featured: false
 
 
 Fatigue:
