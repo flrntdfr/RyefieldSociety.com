@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Release: Another Escape"
-date: 2023-03-06 21:00:00
+date: 2024-03-06 21:00:00
 category: release
 tags: [release]
-permalink: /news/20230306-01
+permalink: /news/20240306-01
 ---
 
 
