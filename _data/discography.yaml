@@ -135,6 +135,27 @@ VDLAM:
 ## ----------------------------- ##
 
 
+AE:
+  title: Another Escape
+  album: Selected Works. Series 3
+  type: Compilation
+  release_date: 2024-03-08
+  label: Indefinite Pitch
+  label_release_id: PITCHVA07
+  excerpt: >-
+    This track is part of the compilation "Selected Works. Series 3" released by Chinese label Indefinite Pitch in March 2024. 
+    The compilation includes twenty tracks of deep and ambient techno music. It was mastered by J. David Lucio S. and its artwork was designed by Mark Wagner.
+    
+    "Another Escape" reflects on introspective night walks chasing clearer skies in dark industrial cities. With this intimate track, Ryefield Society explores new territories by blending bass music elements into guitar- and synth-driven melancholia.
+  tags: [dub,techno,downtempo,deep,ambient,dnb,bass]
+  page: /release/another-escape
+  cover_url: https://f4.bcbits.com/img/a3404541798_10.jpg
+  download_url: https://indefinitepitch.bandcamp.com/album/selected-works-series-3
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3397048280/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=599002231/transparent=true/" seamless><a href="https://indefinitepitch.bandcamp.com/album/selected-works-series-3"></a></iframe>'
+  is_hidden: false
+  is_featured: true
+
+
 FS:
   title: Familiar Skies (Anemoia)
   album: '場所精神 / Genius Loci Vol. 1'
@@ -143,7 +164,7 @@ FS:
   label: Jyugam
   label_release_id: GM014
   excerpt: >-
-    This track is part of the compilation 場所精神 / Genius Loci Vol. 1 released by chinese label Jyugam in July 2023. 
+    This track is part of the compilation 場所精神 / Genius Loci Vol. 1 released by Chinese label Jyugam in July 2023. 
     The compilation includes eleven tracks that cover a large scope of electronic music styles. It was mastered by Florence Tang and its artwork was designed by maf.
     
     "Familiar Skies (Anemoia)" tries to put sounds on the comfortable sensations I associate to the place I grew up in. This dub-influenced downtempo track is a contemplative piece that aims to reflect the beauty of familiar landcapes and a feeling of imaginary nostalgia.
@@ -153,7 +174,7 @@ FS:
   download_url: https://jyugam.bandcamp.com/album/genius-loci-vol-1
   preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=510838805/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2024108475/transparent=true/" seamless><a href="https://jyugam.bandcamp.com/album/genius-loci-vol-1"></a></iframe>'
   is_hidden: false
-  is_featured: true
+  is_featured: false
 
 
 
