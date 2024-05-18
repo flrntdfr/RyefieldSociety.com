@@ -1,6 +1,6 @@
 ---
 layout: release
-title: Artless Ostinati
-id: 'AO'
-permalink: /release/artless-ostinati
+title: "S'accommoder/Perdido"
+id: 'SP'
+permalink: /release/saccommoder-perdido
 ---
