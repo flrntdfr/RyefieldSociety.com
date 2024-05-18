@@ -21,6 +21,19 @@ css:
 {% endfor %}
 </div>
 
+<h1>Split releases</h1>
+
+<div class="rows">
+{% for item in site.data.discography %}
+{% assign release = item[1] %}
+{% unless release.is_hidden %}
+{% if release.type == "Split" %}
+{% include release.html %}
+{% endif %}
+{% endunless %}
+{% endfor %}
+</div>
+
 <h1>EPs</h1>
 
 <div class="rows">
