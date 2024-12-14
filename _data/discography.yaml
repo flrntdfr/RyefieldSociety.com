@@ -299,6 +299,21 @@ WIL-OX:
 ## REMIXES, EDITS ETC. ##
 ## ------------------- ##
 
+S-WA:
+  title: Wide Awake (Ryefield Society Remix)
+  album: "Wide Awake"
+  label: Spleencore Records
+  type: Remix
+  artist: Scepticisme
+  release_date: 2024-12-12
+  excerpt: 
+  tags: [remix,downtempo,electronic,postrock]
+  page: /news/20241214-01
+  cover_url: https://f4.bcbits.com/img/a1974744452_10.jpg
+  download_url: https://spleencorerecords.bandcamp.com/album/sc18-wide-awake
+  is_hidden: false
+  is_featured: false
+
 AdC-CJQD:
   title: Ces jours qui disparaissent (Ryefield Society Remix)
   album: "Paralysis: Variations"
