@@ -4,6 +4,24 @@
 ## ALBUMS, EPs, AND SINGLES ##
 ## ------------------------ ##
 
+Di:
+  title: "Disturbance"
+  type: EP
+  release_date: 2026-02-23
+  label: not on label
+  label_release_id: RS01
+  excerpt: >- 
+    Following Artless Ostinati (Huinali Recordings, 2023) and S’Accommoder (ROHS! Recordings, 2024), the French one-man project Ryefield Society returns with a new release titled Disturbance. Composed and produced over the course of 2025, this four-track EP channels a period of intense self-reflection, born from personal struggles and a growing unease with the world’s political and moral climate.<br/><br/>
+    
+    Many thanks to Michael Itz for contributing a remix, and to Florent Dufour who did the artwork.<br/><br/>
+
+  tags: [electronic,downtempo,experimental,abstract,ambient]
+  page: /release/disturbance
+  cover_url: https://f4.bcbits.com/img/a1765434269_10.jpg
+  download_url: https://ryefieldsociety.bandcamp.com/album/disturbance
+  preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=476806030/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://ryefieldsociety.bandcamp.com/album/disturbance">Disturbance by Ryefield Society</a></iframe>'
+  is_hidden: false
+  is_featured: true
 
 SP:
   title: "S'accommoder/Perdido"
@@ -173,7 +191,7 @@ AE:
   download_url: https://indefinitepitch.bandcamp.com/album/selected-works-series-3
   preview_code: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3397048280/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=599002231/transparent=true/" seamless><a href="https://indefinitepitch.bandcamp.com/album/selected-works-series-3"></a></iframe>'
   is_hidden: false
-  is_featured: true
+  is_featured: false
 
 
 FS:
