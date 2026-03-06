@@ -7,7 +7,8 @@ tags: [release]
 permalink: /news/20260306-01
 ---
 
-I recently released a new EP titled "Disturbance" which explore darker, more bass-driven sounds than my previous releases.<!--more-->
+I recently released a new EP titled "Disturbance" which explore darker, more bass-driven sounds than my previous releases.<!--more--><br/>
+
 Although I decided to handle almost everything myself for this release (including mastering and distribution), I had the great pleasure of having Michael It'z contribute a remix and Florent Dufour create the artwork. Many thanks to both!
 The release is available on Bandcamp (see below) and [Soundcloud](https://soundcloud.com/ryefield-society/sets/disturbance). <br/>
 
@@ -16,16 +17,26 @@ The release is available on Bandcamp (see below) and [Soundcloud](https://soundc
 
 Grab a code below and redeem it at [this address](https://ryefieldsociety.bandcamp.com/yum) to add this EP to your Bancamp collection and/or access free download:
 
-ev2w-7bfq<br/>
-bbme-vhjz<br/>
-5dr9-g58g<br/>
-8qmn-3ubu<br/>
-tbrv-xqlq<br/>
-6j6t-epul<br/>
-uf32-u2aj<br/>
-xax5-jluy<br/>
-q6eg-keef<br/>
-937n-gura<br/>
+ev2w-7bfq
+
+bbme-vhjz
+
+5dr9-g58g
+
+8qmn-3ubu
+
+tbrv-xqlq
+
+6j6t-epul
+
+uf32-u2aj
+
+xax5-jluy
+
+q6eg-keef
+
+937n-gura
+
 
 
 
