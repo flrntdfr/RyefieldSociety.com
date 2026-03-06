@@ -7,7 +7,7 @@ tags: [release]
 permalink: /news/20260306-01
 ---
 
-I recently released a new EP titled "Disturbance" which explore darker, more bass-driven sounds than my previous releases.<!--more-->
+I recently released a new EP titled "Disturbance" which explores darker, more bass-driven sounds than my previous releases.<!--more-->
 
 Although I decided to handle almost everything myself for this release (including mastering and distribution), I had the great pleasure of having Michael It'z contribute a remix and Florent Dufour create the artwork. Many thanks to both!
 
