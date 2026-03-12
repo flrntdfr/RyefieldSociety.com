@@ -6,5 +6,7 @@
     <a href="{{ mix.page }}"><h3>{{ mix.title }}</h3></a>
     <h4>{{ mix.label }} {% if mix.label%}-{% endif %} {{ mix.release_date | date: "%b %d, %Y" }}</h4>
     {{ mix.preview_code }}
-    <p>{{ mix.tracklist }}</p>
+    <p><details><summary>Tracklist</summary>
+    {{ mix.tracklist }}
+    </details></p>
   </div>
