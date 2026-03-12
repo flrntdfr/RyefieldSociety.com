@@ -10,6 +10,8 @@ h1 {
 
 .entry {
   display: flex;
+  flex-direction: column;
+  width: 100%;
   padding-top: 2em;
   padding-bottom: 2em;
 }

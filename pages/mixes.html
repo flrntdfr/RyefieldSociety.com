@@ -11,11 +11,10 @@ css:
 
 <h1>Contemporary Feelings</h1>
 <div class="rows">
-{% for item in site.data.mixes %}
-{% assign mix = item[1] %}
-{% if mix.type == "Contemporary Feelings" %}
-{% include mix.html %}
-{% endif %}
-{% endfor %}
-<br/>
+    {% for item in site.data.mixes %}
+        {% assign mix = item[1] %}
+        {% if mix.type == "Contemporary Feelings" %}
+            {% include mix.html %}
+        {% endif %}
+    {% endfor %}
 </div>
