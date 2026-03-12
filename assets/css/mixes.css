@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  border-bottom: solid black 1px;
+}
+
+.rows {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.entry {
+  display: flex;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.entry img {
+  max-width: 150px;
+}
+
+.entry-metadata {
+  padding-left: 2em;
+}

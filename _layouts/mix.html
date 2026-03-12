@@ -11,7 +11,7 @@ layout: default
   <div class="right">
     <h2>{{ mix.title }}</h2>
     <h3>CAMP Radio - {{ mix.release_date | date: "%b, %-d %Y" }}</h3>
-    <p>{{ mix.excerpt }}</p>
+    {{ mix.excerpt }}
     {{ content }}
   </div>
 </div>
