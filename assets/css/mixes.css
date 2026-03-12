@@ -4,16 +4,15 @@ h1 {
 }
 
 .rows {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  display: block;
+  margin-bottom: 1rem;
 }
 
-.entry {
-  display: block;
-  width: 100%;
-  padding-top: 2em;
-  padding-bottom: 2em;
+.rows .entry {
+  display: flex;
+  flex-direction: row;  /* or column if you want image above text */
+  width: 100%;         /* prevents them from sitting side by side */
+  box-sizing: border-box;
 }
 
 .entry-metadata {
