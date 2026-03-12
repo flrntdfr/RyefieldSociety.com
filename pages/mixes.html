@@ -1,0 +1,21 @@
+---
+# There is redundant code here...
+# ...That's the best we can do with Liquid at the moment (2022).
+layout: default
+title: Mixes
+permalink: /mixes
+css:
+  - discography.css
+---
+
+
+<h1>Contemporary Feelings</h1>
+<div class="rows">
+{% for item in site.data.mixes %}
+{% assign release = item[1] %}
+{% if release.type == "Contemporary Feelings" %}
+{% include mix.html %}
+{% endif %}
+{% endunless %}
+{% endfor %}
+</div>

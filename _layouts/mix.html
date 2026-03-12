@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% assign release = site.data.mixes[page.id] %}
+
+<div class="left-and-right">
+  <div class="left">
+    {{ mix.preview_code }}
+  </div>
+  <div class="right">
+    <h2>{{ mix.title }}</h2>
+    <h3>CAMP Radio - {{ mix.release_date | date: "%b, %-d %Y" }}</h3>
+    <p>{{ mix.excerpt }}</p>
+    {{ content }}
+  </div>
+</div>
