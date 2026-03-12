@@ -4,19 +4,22 @@ h1 {
 }
 
 .rows {
-  display: block;
-  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
-.rows .entry {
-  display: flex;
-  flex-direction: row;  /* or column if you want image above text */
-  width: 100%;         /* prevents them from sitting side by side */
-  box-sizing: border-box;
+.entry {
+  display: block;
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.entry img {
+  max-width: 150px;
 }
 
 .entry-metadata {
-  display: block;
-  width: 100%;
   padding-left: 2em;
 }
