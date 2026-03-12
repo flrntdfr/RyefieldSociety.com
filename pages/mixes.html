@@ -12,8 +12,8 @@ css:
 <h1>Contemporary Feelings</h1>
 <div class="rows">
 {% for item in site.data.mixes %}
-{% assign release = item[1] %}
-{% if release.type == "Contemporary Feelings" %}
+{% assign mix = item[1] %}
+{% if mix.type == "Contemporary Feelings" %}
 {% include mix.html %}
 {% endif %}
 {% endunless %}

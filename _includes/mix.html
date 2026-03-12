@@ -1,0 +1,9 @@
+<div class="entry">
+  <!-- a href="{{ mix.page }}" -->
+  <!-- img class="cover" src="{{ release.cover_url }}" alt="{{ release.title }} cover art"/ -->
+  <!-- /a-->
+  <div class="entry-metadata">
+    <a href="{{ mix.page }}"><h3>{{ mix.title }}</h3></a>
+    <h4>{{ mix.label }} {% if release.label%}-{% endif %} {{ release.release_date | date: "%b %d, %Y" }}</h4>
+    <p>{{ mix.excerpt }}</p>
+  </div>
