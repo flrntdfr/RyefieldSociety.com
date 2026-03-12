@@ -4,9 +4,9 @@ h1 {
 }
 
 .rows {
-  display: block;
-  width: 100%;
-  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 .entry {
@@ -16,10 +16,8 @@ h1 {
   padding-bottom: 2em;
 }
 
-.entry img {
-  max-width: 150px;
-}
-
 .entry-metadata {
+  display: block;
+  width: 100%;
   padding-left: 2em;
 }
